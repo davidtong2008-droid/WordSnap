@@ -1,0 +1,6 @@
+PyQt6>=6.5.0
+mss>=9.0.0
+opencv-python>=4.8.0
+pytesseract>=0.3.10
+nltk>=3.8.1
+pyinstaller>=6.3.0
